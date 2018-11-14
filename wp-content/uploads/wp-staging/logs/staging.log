@@ -1,0 +1,320 @@
+[INFO]-[2018/10/30 23:12:29] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2018/10/30 23:12:29] DB Copy: Creating table wpstg0_commentmeta
+[INFO]-[2018/10/30 23:12:29] DB Copy: Creating table wpstg0_comments
+[INFO]-[2018/10/30 23:12:29] DB Copy: platform_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:29] DB Copy: Creating table wpstg0_comments
+[INFO]-[2018/10/30 23:12:29] DB Copy: platform_comments as wpstg0_comments from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:30] DB Copy: Creating table wpstg0_links
+[INFO]-[2018/10/30 23:12:30] DB Copy: Creating table wpstg0_links
+[INFO]-[2018/10/30 23:12:30] DB Copy: Creating table wpstg0_options
+[INFO]-[2018/10/30 23:12:30] DB Copy: platform_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:30] DB Copy: Creating table wpstg0_options
+[INFO]-[2018/10/30 23:12:30] DB Copy: platform_options as wpstg0_options from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:31] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2018/10/30 23:12:31] DB Copy: platform_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:31] DB Copy: Creating table wpstg0_postmeta
+[INFO]-[2018/10/30 23:12:31] DB Copy: platform_postmeta as wpstg0_postmeta from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:31] DB Copy: Creating table wpstg0_posts
+[INFO]-[2018/10/30 23:12:31] DB Copy: platform_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:31] DB Copy: Creating table wpstg0_posts
+[INFO]-[2018/10/30 23:12:31] DB Copy: platform_posts as wpstg0_posts from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:32] DB Copy: Creating table wpstg0_simply_static_pages
+[INFO]-[2018/10/30 23:12:32] DB Copy: platform_simply_static_pages as wpstg0_simply_static_pages from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:32] DB Copy: Creating table wpstg0_simply_static_pages
+[INFO]-[2018/10/30 23:12:32] DB Copy: platform_simply_static_pages as wpstg0_simply_static_pages from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:32] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2018/10/30 23:12:32] DB Copy: platform_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:32] DB Copy: Creating table wpstg0_term_relationships
+[INFO]-[2018/10/30 23:12:32] DB Copy: platform_term_relationships as wpstg0_term_relationships from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:33] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2018/10/30 23:12:33] DB Copy: platform_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:33] DB Copy: Creating table wpstg0_term_taxonomy
+[INFO]-[2018/10/30 23:12:33] DB Copy: platform_term_taxonomy as wpstg0_term_taxonomy from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:33] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2018/10/30 23:12:33] DB Copy: Creating table wpstg0_termmeta
+[INFO]-[2018/10/30 23:12:34] DB Copy: Creating table wpstg0_terms
+[INFO]-[2018/10/30 23:12:34] DB Copy: platform_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:34] DB Copy: Creating table wpstg0_terms
+[INFO]-[2018/10/30 23:12:34] DB Copy: platform_terms as wpstg0_terms from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:34] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2018/10/30 23:12:34] DB Copy: platform_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:34] DB Copy: Creating table wpstg0_usermeta
+[INFO]-[2018/10/30 23:12:34] DB Copy: platform_usermeta as wpstg0_usermeta from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:34] DB Copy: Creating table wpstg0_users
+[INFO]-[2018/10/30 23:12:34] DB Copy: platform_users as wpstg0_users from 0 to 10000 records
+[INFO]-[2018/10/30 23:12:34] DB Copy: Creating table wpstg0_users
+[INFO]-[2018/10/30 23:12:34] DB Copy: platform_users as wpstg0_users from 0 to 10000 records
+[]-[] 
+[]-[] 
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/30 23:12:36] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[INFO]-[2018/10/30 23:12:36] DB Processing:  Table wpstg0_comments 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/30 23:12:36] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2018/10/30 23:12:36] DB Processing:  Table wpstg0_options 0 to 5000 records
+[INFO]-[2018/10/30 23:12:37] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2018/10/30 23:12:37] DB Processing:  Table wpstg0_postmeta 0 to 5000 records
+[INFO]-[2018/10/30 23:12:37] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2018/10/30 23:12:37] DB Processing:  Table wpstg0_posts 0 to 5000 records
+[INFO]-[2018/10/30 23:12:38] DB Processing:  Table wpstg0_simply_static_pages 0 to 5000 records
+[INFO]-[2018/10/30 23:12:38] DB Processing:  Table wpstg0_simply_static_pages 0 to 5000 records
+[INFO]-[2018/10/30 23:12:38] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2018/10/30 23:12:38] DB Processing:  Table wpstg0_term_relationships 0 to 5000 records
+[INFO]-[2018/10/30 23:12:39] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[INFO]-[2018/10/30 23:12:39] DB Processing:  Table wpstg0_term_taxonomy 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/30 23:12:39] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2018/10/30 23:12:39] DB Processing:  Table wpstg0_terms 0 to 5000 records
+[INFO]-[2018/10/30 23:12:40] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2018/10/30 23:12:40] DB Processing:  Table wpstg0_usermeta 0 to 5000 records
+[INFO]-[2018/10/30 23:12:40] DB Processing:  Table wpstg0_users 0 to 5000 records
+[INFO]-[2018/10/30 23:12:40] DB Processing:  Table wpstg0_users 0 to 5000 records
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/30 23:12:42] Scanning / for files
+[INFO]-[2018/10/30 23:12:42] Scanning / for files
+[INFO]-[2018/10/30 23:12:42] Scanning /wp-content for its sub-directories and files
+[INFO]-[2018/10/30 23:12:42] Scanning /wp-content for its sub-directories and files
+[INFO]-[2018/10/30 23:12:45] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2018/10/30 23:12:45] Scanning /wp-includes for its sub-directories and files
+[INFO]-[2018/10/30 23:12:48] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2018/10/30 23:12:48] Scanning /wp-admin for its sub-directories and files
+[INFO]-[2018/10/30 23:12:49] Copying files...
+[INFO]-[2018/10/30 23:12:49] Skipping big file: /home/xzxngg3mnguz/public_html/platform/wordpress-4.9.8 (1).zip
+[INFO]-[2018/10/30 23:12:49] Skipping big file: /home/xzxngg3mnguz/public_html/platform/wp-content/sonic-platform-repo.zip
+[INFO]-[2018/10/30 23:12:49] Total 50 files processed
+[INFO]-[2018/10/30 23:12:49] Copying files...
+[INFO]-[2018/10/30 23:12:49] Skipping big file: /home/xzxngg3mnguz/public_html/platform/wordpress-4.9.8 (1).zip
+[INFO]-[2018/10/30 23:12:49] Skipping big file: /home/xzxngg3mnguz/public_html/platform/wp-content/sonic-platform-repo.zip
+[INFO]-[2018/10/30 23:12:49] Total 50 files processed
+[INFO]-[2018/10/30 23:12:49] Total 100 files processed
+[INFO]-[2018/10/30 23:12:49] Total 100 files processed
+[INFO]-[2018/10/30 23:12:51] Total 150 files processed
+[INFO]-[2018/10/30 23:12:51] Total 150 files processed
+[INFO]-[2018/10/30 23:12:52] Total 200 files processed
+[INFO]-[2018/10/30 23:12:52] Total 200 files processed
+[INFO]-[2018/10/30 23:12:53] Total 250 files processed
+[INFO]-[2018/10/30 23:12:53] Total 250 files processed
+[INFO]-[2018/10/30 23:12:54] Total 300 files processed
+[INFO]-[2018/10/30 23:12:54] Total 300 files processed
+[INFO]-[2018/10/30 23:12:54] Total 350 files processed
+[INFO]-[2018/10/30 23:12:54] Total 350 files processed
+[INFO]-[2018/10/30 23:12:59] Total 400 files processed
+[INFO]-[2018/10/30 23:12:59] Total 400 files processed
+[INFO]-[2018/10/30 23:13:00] Total 450 files processed
+[INFO]-[2018/10/30 23:13:00] Total 450 files processed
+[INFO]-[2018/10/30 23:13:00] Total 500 files processed
+[INFO]-[2018/10/30 23:13:00] Total 500 files processed
+[INFO]-[2018/10/30 23:13:01] Total 550 files processed
+[INFO]-[2018/10/30 23:13:01] Total 550 files processed
+[INFO]-[2018/10/30 23:13:01] Total 600 files processed
+[INFO]-[2018/10/30 23:13:01] Total 600 files processed
+[INFO]-[2018/10/30 23:13:06] Total 650 files processed
+[INFO]-[2018/10/30 23:13:06] Total 650 files processed
+[INFO]-[2018/10/30 23:13:06] Total 700 files processed
+[INFO]-[2018/10/30 23:13:06] Total 700 files processed
+[INFO]-[2018/10/30 23:13:06] Total 750 files processed
+[INFO]-[2018/10/30 23:13:06] Total 750 files processed
+[INFO]-[2018/10/30 23:13:07] Total 800 files processed
+[INFO]-[2018/10/30 23:13:07] Total 800 files processed
+[INFO]-[2018/10/30 23:13:10] Total 850 files processed
+[INFO]-[2018/10/30 23:13:10] Total 850 files processed
+[INFO]-[2018/10/30 23:13:10] Total 900 files processed
+[INFO]-[2018/10/30 23:13:10] Total 900 files processed
+[INFO]-[2018/10/30 23:13:11] Total 950 files processed
+[INFO]-[2018/10/30 23:13:11] Total 950 files processed
+[INFO]-[2018/10/30 23:13:12] Total 1000 files processed
+[INFO]-[2018/10/30 23:13:12] Total 1000 files processed
+[INFO]-[2018/10/30 23:13:12] Total 1050 files processed
+[INFO]-[2018/10/30 23:13:12] Total 1050 files processed
+[INFO]-[2018/10/30 23:13:13] Total 1100 files processed
+[INFO]-[2018/10/30 23:13:13] Total 1100 files processed
+[INFO]-[2018/10/30 23:13:18] Total 1150 files processed
+[INFO]-[2018/10/30 23:13:18] Total 1150 files processed
+[INFO]-[2018/10/30 23:13:23] Total 1200 files processed
+[INFO]-[2018/10/30 23:13:23] Total 1200 files processed
+[INFO]-[2018/10/30 23:13:27] Total 1250 files processed
+[INFO]-[2018/10/30 23:13:27] Total 1250 files processed
+[INFO]-[2018/10/30 23:13:30] Total 1300 files processed
+[INFO]-[2018/10/30 23:13:30] Total 1300 files processed
+[INFO]-[2018/10/30 23:13:31] Total 1350 files processed
+[INFO]-[2018/10/30 23:13:31] Total 1350 files processed
+[INFO]-[2018/10/30 23:13:31] Total 1400 files processed
+[INFO]-[2018/10/30 23:13:31] Total 1400 files processed
+[INFO]-[2018/10/30 23:13:36] Total 1450 files processed
+[INFO]-[2018/10/30 23:13:36] Total 1450 files processed
+[INFO]-[2018/10/30 23:13:37] Total 1500 files processed
+[INFO]-[2018/10/30 23:13:37] Total 1500 files processed
+[INFO]-[2018/10/30 23:13:37] Total 1550 files processed
+[INFO]-[2018/10/30 23:13:37] Total 1550 files processed
+[INFO]-[2018/10/30 23:13:38] Skipping big file: /home/xzxngg3mnguz/public_html/platform/wp-content/sonic-platform-repo-29oct.zip
+[INFO]-[2018/10/30 23:13:38] Total 1600 files processed
+[INFO]-[2018/10/30 23:13:38] Skipping big file: /home/xzxngg3mnguz/public_html/platform/wp-content/sonic-platform-repo-29oct.zip
+[INFO]-[2018/10/30 23:13:38] Total 1600 files processed
+[INFO]-[2018/10/30 23:13:51] Trying to copy big file: /home/xzxngg3mnguz/public_html/platform/wp-content/uploads/2018/09/interfero_animate.gif -> /home/xzxngg3mnguz/public_html/platform/staging/wp-content/uploads/2018/09/interfero_animate.gif
+[INFO]-[2018/10/30 23:14:11] Total 1650 files processed
+[INFO]-[2018/10/30 23:13:51] Trying to copy big file: /home/xzxngg3mnguz/public_html/platform/wp-content/uploads/2018/09/interfero_animate.gif -> /home/xzxngg3mnguz/public_html/platform/staging/wp-content/uploads/2018/09/interfero_animate.gif
+[INFO]-[2018/10/30 23:14:11] Total 1650 files processed
+[INFO]-[2018/10/30 23:14:21] Trying to copy big file: /home/xzxngg3mnguz/public_html/platform/wp-content/uploads/2018/09/interfero_animate_size2.gif -> /home/xzxngg3mnguz/public_html/platform/staging/wp-content/uploads/2018/09/interfero_animate_size2.gif
+[INFO]-[2018/10/30 23:14:25] Trying to copy big file: /home/xzxngg3mnguz/public_html/platform/wp-content/uploads/2018/09/ADOGIF.gif -> /home/xzxngg3mnguz/public_html/platform/staging/wp-content/uploads/2018/09/ADOGIF.gif
+[INFO]-[2018/10/30 23:14:29] Total 1700 files processed
+[INFO]-[2018/10/30 23:14:21] Trying to copy big file: /home/xzxngg3mnguz/public_html/platform/wp-content/uploads/2018/09/interfero_animate_size2.gif -> /home/xzxngg3mnguz/public_html/platform/staging/wp-content/uploads/2018/09/interfero_animate_size2.gif
+[INFO]-[2018/10/30 23:14:25] Trying to copy big file: /home/xzxngg3mnguz/public_html/platform/wp-content/uploads/2018/09/ADOGIF.gif -> /home/xzxngg3mnguz/public_html/platform/staging/wp-content/uploads/2018/09/ADOGIF.gif
+[INFO]-[2018/10/30 23:14:29] Total 1700 files processed
+[INFO]-[2018/10/30 23:14:31] Total 1750 files processed
+[INFO]-[2018/10/30 23:14:31] Total 1750 files processed
+[INFO]-[2018/10/30 23:14:32] Total 1800 files processed
+[INFO]-[2018/10/30 23:14:32] Total 1800 files processed
+[INFO]-[2018/10/30 23:14:38] Total 1850 files processed
+[INFO]-[2018/10/30 23:14:38] Total 1850 files processed
+[INFO]-[2018/10/30 23:14:39] Total 1900 files processed
+[INFO]-[2018/10/30 23:14:39] Total 1900 files processed
+[INFO]-[2018/10/30 23:14:40] Total 1950 files processed
+[INFO]-[2018/10/30 23:14:40] Total 1950 files processed
+[INFO]-[2018/10/30 23:14:54] Total 2000 files processed
+[INFO]-[2018/10/30 23:14:54] Total 2000 files processed
+[INFO]-[2018/10/30 23:14:55] Trying to copy big file: /home/xzxngg3mnguz/public_html/platform/wp-content/sonic-platform-repo/wp-content/uploads/2018/09/interfero_animate.gif -> /home/xzxngg3mnguz/public_html/platform/staging/wp-content/sonic-platform-repo/wp-content/uploads/2018/09/interfero_animate.gif
+[INFO]-[2018/10/30 23:15:11] Trying to copy big file: /home/xzxngg3mnguz/public_html/platform/wp-content/sonic-platform-repo/wp-content/uploads/2018/09/interfero_animate_size2.gif -> /home/xzxngg3mnguz/public_html/platform/staging/wp-content/sonic-platform-repo/wp-content/uploads/2018/09/interfero_animate_size2.gif
+[INFO]-[2018/10/30 23:15:21] Trying to copy big file: /home/xzxngg3mnguz/public_html/platform/wp-content/sonic-platform-repo/wp-content/uploads/2018/09/ADOGIF.gif -> /home/xzxngg3mnguz/public_html/platform/staging/wp-content/sonic-platform-repo/wp-content/uploads/2018/09/ADOGIF.gif
+[INFO]-[2018/10/30 23:15:33] Total 2050 files processed
+[INFO]-[2018/10/30 23:14:55] Trying to copy big file: /home/xzxngg3mnguz/public_html/platform/wp-content/sonic-platform-repo/wp-content/uploads/2018/09/interfero_animate.gif -> /home/xzxngg3mnguz/public_html/platform/staging/wp-content/sonic-platform-repo/wp-content/uploads/2018/09/interfero_animate.gif
+[INFO]-[2018/10/30 23:15:11] Trying to copy big file: /home/xzxngg3mnguz/public_html/platform/wp-content/sonic-platform-repo/wp-content/uploads/2018/09/interfero_animate_size2.gif -> /home/xzxngg3mnguz/public_html/platform/staging/wp-content/sonic-platform-repo/wp-content/uploads/2018/09/interfero_animate_size2.gif
+[INFO]-[2018/10/30 23:15:21] Trying to copy big file: /home/xzxngg3mnguz/public_html/platform/wp-content/sonic-platform-repo/wp-content/uploads/2018/09/ADOGIF.gif -> /home/xzxngg3mnguz/public_html/platform/staging/wp-content/sonic-platform-repo/wp-content/uploads/2018/09/ADOGIF.gif
+[INFO]-[2018/10/30 23:15:33] Total 2050 files processed
+[INFO]-[2018/10/30 23:15:34] Total 2100 files processed
+[INFO]-[2018/10/30 23:15:34] Total 2100 files processed
+[INFO]-[2018/10/30 23:15:36] Skipping big file: /home/xzxngg3mnguz/public_html/platform/wp-content/sonic-platform-repo 2.zip
+[INFO]-[2018/10/30 23:15:38] Total 2150 files processed
+[INFO]-[2018/10/30 23:15:36] Skipping big file: /home/xzxngg3mnguz/public_html/platform/wp-content/sonic-platform-repo 2.zip
+[INFO]-[2018/10/30 23:15:38] Total 2150 files processed
+[INFO]-[2018/10/30 23:15:39] Total 2200 files processed
+[INFO]-[2018/10/30 23:15:39] Total 2200 files processed
+[INFO]-[2018/10/30 23:15:39] Total 2250 files processed
+[INFO]-[2018/10/30 23:15:39] Total 2250 files processed
+[INFO]-[2018/10/30 23:15:41] Total 2300 files processed
+[INFO]-[2018/10/30 23:15:41] Total 2300 files processed
+[INFO]-[2018/10/30 23:15:41] Total 2350 files processed
+[INFO]-[2018/10/30 23:15:41] Total 2350 files processed
+[INFO]-[2018/10/30 23:15:47] Total 2400 files processed
+[INFO]-[2018/10/30 23:15:47] Total 2400 files processed
+[INFO]-[2018/10/30 23:15:49] Total 2450 files processed
+[INFO]-[2018/10/30 23:15:49] Total 2450 files processed
+[INFO]-[2018/10/30 23:15:51] Total 2500 files processed
+[INFO]-[2018/10/30 23:15:51] Total 2500 files processed
+[INFO]-[2018/10/30 23:15:56] Total 2550 files processed
+[INFO]-[2018/10/30 23:15:56] Total 2550 files processed
+[INFO]-[2018/10/30 23:16:00] Total 2600 files processed
+[INFO]-[2018/10/30 23:16:00] Total 2600 files processed
+[INFO]-[2018/10/30 23:16:01] Total 2650 files processed
+[INFO]-[2018/10/30 23:16:01] Total 2650 files processed
+[INFO]-[2018/10/30 23:16:01] Total 2700 files processed
+[INFO]-[2018/10/30 23:16:01] Total 2700 files processed
+[INFO]-[2018/10/30 23:16:02] Total 2750 files processed
+[INFO]-[2018/10/30 23:16:02] Total 2750 files processed
+[INFO]-[2018/10/30 23:16:03] Total 2800 files processed
+[INFO]-[2018/10/30 23:16:03] Total 2800 files processed
+[INFO]-[2018/10/30 23:16:04] Total 2850 files processed
+[INFO]-[2018/10/30 23:16:04] Total 2850 files processed
+[INFO]-[2018/10/30 23:16:04] Total 2900 files processed
+[INFO]-[2018/10/30 23:16:04] Total 2900 files processed
+[INFO]-[2018/10/30 23:16:05] Total 2950 files processed
+[INFO]-[2018/10/30 23:16:05] Total 2950 files processed
+[INFO]-[2018/10/30 23:16:06] Total 3000 files processed
+[INFO]-[2018/10/30 23:16:06] Total 3000 files processed
+[INFO]-[2018/10/30 23:16:10] Total 3050 files processed
+[INFO]-[2018/10/30 23:16:10] Total 3050 files processed
+[INFO]-[2018/10/30 23:16:11] Total 3100 files processed
+[INFO]-[2018/10/30 23:16:11] Total 3100 files processed
+[INFO]-[2018/10/30 23:16:19] Total 3150 files processed
+[INFO]-[2018/10/30 23:16:19] Total 3150 files processed
+[INFO]-[2018/10/30 23:16:20] Total 3200 files processed
+[INFO]-[2018/10/30 23:16:20] Total 3200 files processed
+[INFO]-[2018/10/30 23:16:36] Total 3250 files processed
+[INFO]-[2018/10/30 23:16:36] Total 3250 files processed
+[INFO]-[2018/10/30 23:16:42] Total 3300 files processed
+[INFO]-[2018/10/30 23:16:42] Total 3300 files processed
+[INFO]-[2018/10/30 23:16:45] Total 3350 files processed
+[INFO]-[2018/10/30 23:16:45] Total 3350 files processed
+[INFO]-[2018/10/30 23:16:46] Total 3400 files processed
+[INFO]-[2018/10/30 23:16:46] Total 3400 files processed
+[INFO]-[2018/10/30 23:16:46] Total 3450 files processed
+[INFO]-[2018/10/30 23:16:46] Total 3450 files processed
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/30 23:16:47] Copying files finished
+[INFO]-[2018/10/30 23:16:47] Copying files finished
+[INFO]-[2018/10/30 23:16:48] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2018/10/30 23:16:48] Preparing Data Step0: Skip it
+[INFO]-[2018/10/30 23:16:48] Preparing Data Step0: Check if wp-config.php is located in root path
+[INFO]-[2018/10/30 23:16:48] Preparing Data Step0: Skip it
+[INFO]-[2018/10/30 23:16:48] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2018/10/30 23:16:48] Preparing Data Step1: Updating siteurl and homeurl to http://shivayeweb.com/platform/staging
+[INFO]-[2018/10/30 23:16:48] Preparing Data Step1: Successfull
+[INFO]-[2018/10/30 23:16:48] Preparing Data Step1: Updating siteurl and homeurl in wpstg0_options 
+[INFO]-[2018/10/30 23:16:48] Preparing Data Step1: Updating siteurl and homeurl to http://shivayeweb.com/platform/staging
+[INFO]-[2018/10/30 23:16:48] Preparing Data Step1: Successfull
+[INFO]-[2018/10/30 23:16:49] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2018/10/30 23:16:49] Preparing Data Step2: Successfull
+[INFO]-[2018/10/30 23:16:49] Preparing Data Step2: Updating row wpstg_is_staging_site in wpstg0_options 
+[INFO]-[2018/10/30 23:16:49] Preparing Data Step2: Successfull
+[INFO]-[2018/10/30 23:16:49] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2018/10/30 23:16:49] Preparing Data Step3: Updating rewrite_rules in wpstg0_options 
+[INFO]-[2018/10/30 23:16:50] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2018/10/30 23:16:50] Preparing Data Step4: Updating db prefix in wpstg0_usermeta. 
+[INFO]-[2018/10/30 23:16:50] Preparing Data Step5: Updating table_prefix in /home/xzxngg3mnguz/public_html/platform/staging/wp-config.php to wpstg0_
+[INFO]-[2018/10/30 23:16:50] Preparing Data Step5: Updating table_prefix in /home/xzxngg3mnguz/public_html/platform/staging/wp-config.php to wpstg0_
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/30 23:16:51] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2018/10/30 23:16:51] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2018/10/30 23:16:51] Preparing Data Step7: Updating wpstg_rmpermalinks_executed in wpstg0_options 
+[WARNING]-[2018/10/30 23:16:51] Failed to update wpstg_rmpermalinks_executed in wpstg0_options 
+[INFO]-[2018/10/30 23:16:51] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2018/10/30 23:16:51] Preparing Data Step8: Finished Step 8 successfully
+[INFO]-[2018/10/30 23:16:51] Preparing Data Step8: Updating permalink_structure in wpstg0_options 
+[INFO]-[2018/10/30 23:16:51] Preparing Data Step8: Finished Step 8 successfully
+[INFO]-[2018/10/30 23:16:52] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2018/10/30 23:16:52] Preparing Data Step9: Finished Step 9 successfully
+[INFO]-[2018/10/30 23:16:52] Preparing Data Step9: Set staging site to noindex
+[INFO]-[2018/10/30 23:16:52] Preparing Data Step9: Finished Step 9 successfully
+[INFO]-[2018/10/30 23:16:52] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://shivayeweb.com/platform/staging
+[INFO]-[2018/10/30 23:16:52] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/10/30 23:16:52] Preparing Data: Finished Step 10 successfully
+[INFO]-[2018/10/30 23:16:52] Preparing Data Step10: Updating WP_HOME in wp-config.php to http://shivayeweb.com/platform/staging
+[INFO]-[2018/10/30 23:16:52] Preparing Data Step10: WP_HOME not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/10/30 23:16:52] Preparing Data: Finished Step 10 successfully
+[INFO]-[2018/10/30 23:16:53] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://shivayeweb.com/platform/staging
+[INFO]-[2018/10/30 23:16:53] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/10/30 23:16:53] Preparing Data: Finished Step 11 successfully
+[INFO]-[2018/10/30 23:16:53] Preparing Data Step11: Updating WP_SITEURL in wp-config.php to http://shivayeweb.com/platform/staging
+[INFO]-[2018/10/30 23:16:53] Preparing Data Step11: WP_SITEURL not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/10/30 23:16:53] Preparing Data: Finished Step 11 successfully
+[INFO]-[2018/10/30 23:16:54] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2018/10/30 23:16:54] Updating option_name in wpstg0_options. Last error: 
+[INFO]-[2018/10/30 23:16:54] Preparing Data: Finished Step 12 successfully
+[INFO]-[2018/10/30 23:16:54] Preparing Data Step12: Updating db prefix in wpstg0_options.
+[INFO]-[2018/10/30 23:16:54] Updating option_name in wpstg0_options. Last error: 
+[INFO]-[2018/10/30 23:16:54] Preparing Data: Finished Step 12 successfully
+[INFO]-[2018/10/30 23:16:54] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2018/10/30 23:16:54] Preparing Data Step13: Skipping
+[INFO]-[2018/10/30 23:16:54] Preparing Data Step13: Updating upload_path wpstg0_options.
+[INFO]-[2018/10/30 23:16:54] Preparing Data Step13: Skipping
+[INFO]-[2018/10/30 23:16:54] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2018/10/30 23:16:54] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/10/30 23:16:54] Preparing Data: Finished Step 14 successfully
+[INFO]-[2018/10/30 23:16:54] Preparing Data Step14: Set WP_CACHE in wp-config.php to false
+[INFO]-[2018/10/30 23:16:54] Preparing Data Step14: WP_CACHE not defined in wp-config.php. Skipping this step.
+[INFO]-[2018/10/30 23:16:54] Preparing Data: Finished Step 14 successfully
+[]-[] 
+[]-[] 
+[INFO]-[2018/10/30 23:16:55] Finish: Deleting clone job's cache files...
+[INFO]-[2018/10/30 23:16:55] Finish: Clone job's cache files have been deleted!
+[INFO]-[2018/10/30 23:16:55] Finish: Verifying existing clones...
+[INFO]-[2018/10/30 23:16:55] Finish: staging's clone job's data is not in database, generating data
+[INFO]-[2018/10/30 23:16:55] Finish: Deleting clone job's cache files...
+[INFO]-[2018/10/30 23:16:55] Finish: Clone job's cache files have been deleted!
+[INFO]-[2018/10/30 23:16:55] Finish: Verifying existing clones...
+[INFO]-[2018/10/30 23:16:55] Finish: staging's clone job's data is not in database, generating data

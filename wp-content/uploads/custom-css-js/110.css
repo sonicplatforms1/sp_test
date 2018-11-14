@@ -1,0 +1,83 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Add your CSS code here.
+
+For example:
+.example {
+    color: red;
+}
+
+For brushing up on your CSS knowledge, check out http://www.w3schools.com/css/css_syntax.asp
+
+End of comment */ 
+
+@media only screen and (max-width:767px)
+{
+
+body.page-id-99 .fl-rich-text a.enterbutton {
+    float: none;
+    margin: 0 auto;
+    display: table;
+}
+  
+body.page-id-99 .cstlogo img.fl-photo-img {
+    max-width: 100px;
+    margin: 0 auto;
+    display: table;
+    float: none;
+}
+
+}
+
+body.page-template.page-template-fullwidth-template.page-template-fullwidth-template-php.page.page-id-99
+{
+  display:contents;
+}
+
+div#playbtn img {
+    max-width: 27px;
+}
+
+div#playbtn img:hover {
+   opacity:.6;
+}
+
+.vimplayer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.9);
+    text-align:center;
+    display:none;
+    overflow:auto;
+    padding: 0% 0px;
+}
+
+.vimplayer .cross {
+    background: url(https://sonic1231.github.io/sonic-platforms/wp-content/themes/blacklite/img/cross.png);
+    width: 20px;
+    height: 22px;
+    float: right;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin-right: 20px;
+    cursor: pointer;
+    position:relative;
+    margin-top:2.5%;
+    z-index:99;
+}
+
+.vimplayer iframe#vimeo-player {
+    margin: 0 auto;
+    position: absolute;
+    height: 100%;
+    left: 0;
+    right: 0;
+    width: 100%;
+    padding: 4% 0 2%;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->
