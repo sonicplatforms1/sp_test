@@ -1,0 +1,2 @@
+
+jQuery(function($){$(function(){$('.fl-node-5ba0ce930502c .fl-photo-img').on('mouseenter',function(e){$(this).data('title',$(this).attr('title')).removeAttr('title');}).on('mouseleave',function(e){$(this).attr('title',$(this).data('title')).data('title',null);});});});
